@@ -6,8 +6,11 @@ Authors: Glider with the valuable collaboration of AI (ChatGPT)
 ## Description:
 This script allows you to search and download episodes from StreamingCommunity using the "streamingcommunity" API and yt-dlp for content download.
 
-## Installation:
-Make sure you have the required libraries installed by running:
+1. **Clona il repository**:
+   ```bash
+   git clone https://github.com/glideraiscript/streamingcommunity-film-downloader.git
+   cd streamingcommunity-film-downloader
 
-```bash
-pip install -r requirements.txt
+2. **Installa le librerie**:
+   ```bash
+   pip install -r requirements.txt
